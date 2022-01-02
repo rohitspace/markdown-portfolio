@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[website](https://lightfocus24.wordpress.com)
